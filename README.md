@@ -1,3 +1,6 @@
+# Metodos-Numericos-1
+Repositório para trabalhos da disciplina de Métodos Numéricos 1 da Ciência da Computação da UFC.
+
 # Executando o Software de Métodos Numéricos
 
 Este arquivo fornece instruções sobre como compilar e executar o código C++ que implementa métodos numéricos, incluindo o Método de Gauss-Jacobi e Gauss-Seidel.
@@ -51,3 +54,5 @@ O programa exibe, via terminal, as seguintes informações:
 - Solução do sistema através de Gauss-Seidel
 - Solução do sistema (M⁻¹xb) Gauss-Jacobi
 - Solução do sistema (M⁻¹xb) Gauss-Seidel
+=======
+
