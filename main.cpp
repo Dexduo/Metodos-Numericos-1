@@ -21,8 +21,8 @@ int main(int argc, const char** argv)
     if (argc > 1) {
         if (!strcmp(argv[1], "--default")) {
 	    A = {{5, 3, 1},
-		 {5, 6, 1},
-		 {1, 6, 7}};
+		     {5, 6, 1},
+		     {1, 6, 7}};
 
 	    b =  {1, 2, 3};
 
